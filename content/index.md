@@ -1,6 +1,7 @@
 ---
 title: Watches
 ---
+Timepieces that are worn on your wrist that primarily function as timekeepers.
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
