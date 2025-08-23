@@ -1,5 +1,6 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Watches
+text: Timepieces that you wear on your wrist. AKA wristwatches
 ---
 ## The index page
 
