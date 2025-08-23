@@ -2,7 +2,8 @@
 title: Watches
 ---
 **Timepieces** that are worn on your wrist that primarily function as _timekeepers_.
-![Speedmaster|175](https://www.omegawatches.com/media/catalog/product/o/m/omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002-198df2.png?w=900)
+![Speedmaster|100](https://www.omegawatches.com/media/catalog/product/o/m/omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001002-198df2.png?w=900)
+
 
 
 ## The index page
