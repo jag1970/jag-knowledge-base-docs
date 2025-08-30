@@ -3,6 +3,14 @@ title: Watches
 ---
 **Timepieces** that are worn on your wrist that primarily function as _timekeepers_.
 
+## Main Categories
+- [[category-01/index|Diver]] 
+- [[category-02/index|Chronograph]]
+- [[category-03/index|GMT]] 
+- [[category-04/index|Field]]
+- [[category-05/index|Dress]]
+
+
 
 
 
