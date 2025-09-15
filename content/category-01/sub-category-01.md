@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-# **Dive watches**
+# Dive watches
 
 ## Highlights
 
@@ -10,9 +10,8 @@ A dive watch is considered a tool that is used primarily for diving. Not only do
 ![500](https://www.scubadiving.com/sites/default/files/styles/655_1x_/public/scuba/images/2022/03/seiko-dive-watch-scubadivingmag.march2022.jpg?itok=UNf9eb5N)
 
 > [A diver returns from a dive while sporting a dive watch](https://www.scubadiving.com/how-to-take-care-dive-watch)
-
->
-
+> 
 > <cite>Michelle Gaylord</cite>
+
 
 
