@@ -14,4 +14,10 @@ A dive watch is considered a tool primarily used for diving. Not only does it ma
 > <cite>Michelle Gaylord</cite>
 
 
+#### Watch shown in image ref. SRPH55
+
+![[seiko-prospex-srph55.png|250]]
+#### Instructions for how to use above watch
+
+![[4R3CD_2306_EN.pdf]]
 
