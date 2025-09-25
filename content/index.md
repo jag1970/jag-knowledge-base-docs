@@ -1,7 +1,7 @@
 ---
 title: Watches
 ---
-**Timepieces** that are worn on your wrist that primarily function as _timekeepers_.
+Watches are **Timepieces** that are worn on your wrist that primarily function as _timekeepers_. There are many different variety of watches with specific functionality or purpose. These are some of the most popular.
 
 ## Main Categories
 - [[category-01/index|Diver]] 
