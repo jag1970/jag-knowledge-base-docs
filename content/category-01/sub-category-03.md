@@ -1,7 +1,7 @@
 ---
 title: Functionality
 ---
-# What makes it a [[sub-category-01|dive]] watch?
+# What makes it a [[category-01/sub-category-01|dive]] watch?
 
 ## Features of a dive watch
 

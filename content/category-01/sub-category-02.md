@@ -11,7 +11,7 @@ Watches created to be waterproof have existed since the early 1900s; however, th
 
 ![Blancpain Fifty Fathoms](https://cdn.shopify.com/s/files/1/0278/9723/3501/files/Blancpain-FF-1953-2.jpg?v=1654264148)
 
-These watches eventually became more robust and had the ability to go to even greater depths and were capable for use in saturation diving. Many [[sub-category-04|brands]] like Omega and Rolex incorporated helium release values used to just that, release helium during decompression at lower depth. In the 1970s, another company called Seiko created a special diving watch that utilized a special monobloc case instead of a helium release value. This particular watch was capable of depths of 600 meters or nearly 2000 feet.
+These watches eventually became more robust and had the ability to go to even greater depths and were capable for use in saturation diving. Many [[category-01/sub-category-04|brands]] like Omega and Rolex incorporated helium release values used to just that, release helium during decompression at lower depth. In the 1970s, another company called Seiko created a special diving watch that utilized a special monobloc case instead of a helium release value. This particular watch was capable of depths of 600 meters or nearly 2000 feet.
 
 ![Seiko Tuna 6159](https://monochrome-watches.com/wp-content/uploads/2015/10/Seiko-Tuna-6159-7010-3.jpg)
 

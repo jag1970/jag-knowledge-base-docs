@@ -11,7 +11,7 @@ The SRPE093, affectionately known as the Seiko Turtle due to it case shape, is l
 
 ### Rolex Submariner
 
-The Rolex Submariner is the mostly widely known and sought after dive watch around the world. However, not because of its [[sub-category-03|functionality]] as a dive watch, but the prestigious name behind the watch. Because it is so highly sought after, many are not able to get it unless you are willing to wait and put your name on a waitlist. The wait time for one could be 6-36 months.
+The Rolex Submariner is the mostly widely known and sought after dive watch around the world. However, not because of its [[category-01/sub-category-03|functionality]] as a dive watch, but the prestigious name behind the watch. Because it is so highly sought after, many are not able to get it unless you are willing to wait and put your name on a waitlist. The wait time for one could be 6-36 months.
 
 ![Submariner](https://monochrome-watches.com/wp-content/uploads/2020/08/Rolex-Submariner-41mm-124060-no-date-Steel-2020-review-20-2048x2048.jpg) 
 
