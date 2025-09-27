@@ -1,4 +1,4 @@
 ---
-title: Citied Material
+title: References
 ---
-# Citations
+# Cited Material
