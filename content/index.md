@@ -8,7 +8,7 @@ Watches are **Timepieces** that are worn on your wrist that primarily function a
 - [[category-02/index|Chronograph]]
 - [[category-03/index|GMT]] 
 - [[category-04/index|Field]]
-- [[category-05/index|Dress]]
+
 
 
 
