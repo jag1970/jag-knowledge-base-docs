@@ -10,4 +10,5 @@ A watch with a chronograph function is basically a watch with a stopwatch [[cate
 ### Omega Speedmaster
 ![[Speedy_Fratello.jpg|500]]
 ![[Speedy_Back_Fratello.jpg|500]]
-*courtesy of [fratellowatches.com*]([https://www.fratellowatches.com/why-i-bought-the-new-omega-speedmaster-moonwatch-sapphire-sandwich/#gref](https://www.fratellowatches.com/why-i-bought-the-new-omega-speedmaster-moonwatch-sapphire-sandwich/#gref))
+*courtesy of [fratellowatches.com*](https://www.fratellowatches.com/why-i-bought-the-new-omega-speedmaster-moonwatch-sapphire-sandwich/#gref](https://www.fratellowatches.com/why-i-bought-the-new-omega-speedmaster-moonwatch-sapphire-sandwich/#gref)
+
