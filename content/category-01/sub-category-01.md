@@ -3,7 +3,7 @@ title: About
 ---
 # Dive watches
 
-## Highlights
+## About
 
 A dive watch is considered a tool primarily used for diving. Not only does it maintain its primary purpose as a timepiece used to tell time, but it also contains specific[[category-01/sub-category-03| functionality]] to be used for recreational and professional diving.  They are designed to be waterproof and resistant to the pressure of diving to great depths. These types of watches are the most[[category-01/sub-category-05| popular]] due to their robust nature and are among the top sellers among the most prevalent watch [[category-01/sub-category-04|brands]]. The[[category-01/sub-category-02| history]] of dive watches is relatively new compared to timepieces themselves, but they began to gain popularity during the 1960s and were also made popular due to product placement in popular movies.
 
