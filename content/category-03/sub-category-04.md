@@ -1,5 +1,6 @@
 ---
 title: Brands
+date: 2025-10-03
 ---
 # Top Watch Brands who offer [[category-03/sub-category-01|GMT]] watches
 

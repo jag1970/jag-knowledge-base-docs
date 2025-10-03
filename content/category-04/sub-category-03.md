@@ -1,5 +1,6 @@
 ---
 title: Functionality
+date: 2025-10-03
 ---
 # Functions of a Field Watch
 
@@ -8,6 +9,8 @@ The functionality of a field watch is one of the most simple of the all. They ar
 * As much as 200m water resistance
 * Day or Day-Date function
 One of the most popular field watches today is the Hamilton Khaki Field watch which the follow video discusses along with some history about the field watch
+
+
 ![](https://www.youtube.com/watch?v=HCvVaZmiF38)
 
 

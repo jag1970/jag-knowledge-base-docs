@@ -1,5 +1,6 @@
 ---
 title: Brands
+date: 2025-10-03
 ---
 # Brands that offer Field Watches
 

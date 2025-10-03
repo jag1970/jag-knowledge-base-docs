@@ -1,5 +1,6 @@
 ---
 title: Functionality
+date: 2025-10-03
 ---
 # What the heck does GMT mean anyway?
 

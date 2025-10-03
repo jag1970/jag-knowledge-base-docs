@@ -1,5 +1,6 @@
 ---
 title: Functionality
+date: 2025-10-03
 ---
 # What makes it a [[category-02/sub-category-01|chronograph]] ?
 

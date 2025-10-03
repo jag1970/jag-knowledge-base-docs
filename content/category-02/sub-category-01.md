@@ -1,5 +1,6 @@
 ---
 title: About
+date: 2025-10-03
 ---
 # The Chronograph
 

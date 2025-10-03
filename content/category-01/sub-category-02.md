@@ -1,5 +1,6 @@
 ---
 title: History
+date: 2025-10-03
 ---
 # Brief History of the Dive Watch
 
