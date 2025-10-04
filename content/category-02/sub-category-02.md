@@ -4,7 +4,7 @@ date: 2025-10-03
 ---
 # Brief History of the Chronograph
 
-The chronograph itself has existed since the 1800s however, the earliest ones dedicated to be worn on the wrist were first seen in the early 1900s. Because of their stopwatch FEATURE they became popular with race car drivers and pilots, especially during the race to space and land on the moon. 
+The chronograph itself has existed since the 1800s however, the earliest ones dedicated to be worn on the wrist were first seen in the early 1900s. Because of their stopwatch [[category-02/sub-category-03|feature]] they became popular with race car drivers and pilots, especially during the race to space and landing on the moon. 
 
 ### The Iconic Tag Heuer Monaco worn my the Iconic Steve McQueen
 ![[McQueen_Hodinkee.png|500]]
